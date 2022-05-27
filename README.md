@@ -1,2 +1,2 @@
 # whale-talk
-Javascript code to make a whale translator
+This code was an exercise from Codecademy to practice with loops in Javascript. It translates human language to whale language. 
